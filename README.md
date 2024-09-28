@@ -36,7 +36,7 @@ To run this project, you'll need to have Python and Apache Spark installed local
 
 3. Ensure that Spark is installed and available in your system path.
 
-4. Add your CSV and JSON data files to the appropriate directory (in this case, `/home/urban/Projekty/etl_test/praktyka/dane/`).
+4. Add your CSV and JSON data files to the appropriate directory (in this case, `/home/urban/Projekty/etl_test/practise/data/`).
 
 ## Usage
 
