@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "city": "New York",
+        "hire_date": "2018-04-22"
+    },
+    {
+        "id": 2,
+        "name": "Alice",
+        "city": "Los Angeles",
+        "hire_date": "2016-09-15"
+    },
+    {
+        "id": 3,
+        "name": "Bob",
+        "city": "San Francisco",
+        "hire_date": "2017-03-01"
+    },
+    {
+        "id": 4,
+        "name": "Eve",
+        "city": "Chicago",
+        "hire_date": "2019-07-11"
+    },
+    {
+        "id": 5,
+        "name": "Charlie",
+        "city": "Boston",
+        "hire_date": "2020-01-20"
+    }
+]
