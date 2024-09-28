@@ -42,4 +42,4 @@ To run this project, you'll need to have Python and Apache Spark installed local
 
 Once everything is set up, you can run the script using the following command in apropriate path:
 
-python3 asd.py
+python3 transform.py
